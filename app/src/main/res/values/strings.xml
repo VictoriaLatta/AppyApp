@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AC17 Workshop</string>
+    <string name="welcome_label_text">Welcome! Please press a button:</string>
+    <string name="question_button_text">Question Activity</string>
+    <string name="picture_button_text">Picture Activity</string>
+    <string name="question_label_text">What is the meaning of life?</string>
+    <string name="text_field_placeholder_text">Enter text here</string>
+    <string name="submit_button_text">Submit</string>
+    <string name="answer_label_default">-----</string>
+    <string name="answer_label_correct">Correct!</string>
+    <string name="answer_label_incorrect">Incorrect.</string>
+    <string name="picture_label_text">Press the picture to change it.</string>
+    <string name="image_view_text">Image View</string>
+</resources>
